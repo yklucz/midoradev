@@ -1,5 +1,5 @@
-<h1 align="center">7ncvz · midoradev · Lucas</h1>
-<p align="center">Solo JavaScript developer</p>
+<h1 align="center">yklucz · Lucas</h1>
+<p align="center">A self-taught developer</p>
 
 ---
 
@@ -21,9 +21,9 @@ I build tools, bots and web applications using JavaScript, TypeScript, React and
 
 ## Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats-sooty-nine.vercel.app?user=midoradev&theme=dark&hide_border=true&short_numbers=true" />
+  <img src="https://github-readme-streak-stats-sooty-nine.vercel.app?user=yklucz&theme=dark&hide_border=true&short_numbers=true" />
 </p>
 
 ## Contact
-- GitHub: **@midoradev**
-- Discord: **@lncvz**
+- GitHub: **@yklucz**
+- Discord: **@yklucz**
